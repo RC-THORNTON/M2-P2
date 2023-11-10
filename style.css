@@ -1,0 +1,94 @@
+.header-content, .navbar{
+	background-image: url("https://t4.ftcdn.net/jpg/01/04/78/75/360_F_104787586_63vz1PkylLEfSfZ08dqTnqJqlqdq0eXx.jpg");
+	background-size: cover;
+	text-align: center;
+}
+.header-content{
+	padding: 20%;
+}
+h1 {
+	font-family: fantasy;
+	color: whitesmoke;
+	font-size: 50px;
+}
+p{
+	font-family: fantasy;
+	font-size: 20px;
+}
+.content2{
+	background-color: lightblue;
+	text-align: center;
+}
+h2, h4, h6{
+	font-family: fantasy;
+	color: whitesmoke;
+	font-size: 30px;
+}
+h3, h5, h7{
+	font-family:fantasy;
+	font-size: 30px;
+}
+.content2, .content3, .content4{
+	padding: 7%;
+}
+.content4{
+	background-color: darkmagenta;
+}
+.content5{
+	text-align: center;
+}
+.content6{
+	text-align: center;
+	padding: 7%;
+}
+.footer{
+	text-align: center;
+	font-family:fantasy;
+	background-color: lightblue;
+	padding: 7%;
+}
+
+.image-height{
+	height: 300px;
+}
+.image-1{
+	background-image: url('https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/1941551f00af2af6a2342b116d5f5584.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	transition: all 0.2s;
+}
+.image-2{
+	background-image: url('https://www.daily.co/blog/content/images/2022/09/HeaderImage.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	transition: all 0.2s;
+}
+.image-3{
+	background-image: url('https://www.classroomfriendlysupplies.com/cdn/shop/products/sharpeners-new-popular-purple-9.jpg?v=1684089733');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	transition: all 0.2s;
+}
+.image-1:hover{
+	transfrom: scale(2,3);
+	border: 10px solid transparent;
+}
+.image-2:hover{
+	transfrom: scale(2,3);
+	border: 10px solid transparent;
+}
+
+.image-3:hover{
+	transfrom: scale(2,3);
+	border: 10px solid transparent;
+}
+
+
+
+
+
+
+
